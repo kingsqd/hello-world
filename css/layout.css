@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat bottom center fixed;
+   background: #161415 url(../images/header-background.jpg) no-repeat bottom center scroll;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #CC0000; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
